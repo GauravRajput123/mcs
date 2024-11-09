@@ -1,0 +1,2 @@
+This message is written to output.txt.
+Another line of output to the file.

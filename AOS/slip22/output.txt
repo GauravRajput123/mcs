@@ -1,0 +1,2 @@
+This will be written to output.txt
+hi gaurav
