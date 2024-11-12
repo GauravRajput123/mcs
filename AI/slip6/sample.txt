@@ -1,1 +1,0 @@
-This is a sample passage with some stop words that should be removed.
